@@ -1,3 +1,8 @@
-# My Awesome Book
+# OpenCAS开源推荐
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* **发布时间**：周一到周五QQ群作业中
+* **推荐概况**：
+* 欢迎扫描下方二维码关注入群，讨论和提交作业~~
+
+
+
