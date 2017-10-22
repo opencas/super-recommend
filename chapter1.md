@@ -24,7 +24,7 @@ https://github.com/GitbookIO/gitbook
 
 ## 参考链接：
 
-https://baike.baidu.com/item/GitBook/17969908?fr=aladdin
-
+- https://baike.baidu.com/item/GitBook/17969908?fr=aladdin
+- 作者：关鹏
 
 
