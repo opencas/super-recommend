@@ -1,4 +1,4 @@
-# OpenCAS开源推荐
+# [OpenCAS开源推荐](https://www.gitbook.com/book/opencas/super-recommend/details)
 
 * **发布时间**：周一到周五QQ群作业中
 * **推荐概况**：发布开源项目推荐信息
