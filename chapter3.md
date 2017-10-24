@@ -6,7 +6,7 @@
 
 ### 简介：
 
-Easy Machine Learning 是 由中科院ICT-BDA团队开发的基于数据流的通用系统，可用于应用机器学习算法在现实任务中。
+Easy Machine Learning 是 由中科院ICT-BDA团队开发的基于数据流的通用系统，可用于将机器学习算法应用在实际任务中。
 
 
 Easy Machine Learning 主要由三个部分组成：
