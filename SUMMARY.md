@@ -6,3 +6,4 @@
 * [3. Easy Machine Learning](chapter3.md)
 * [4. Deeplearning-biology](chapter4.md)
 * [5. React](chapter5.md)
+* [6. chatbot](chapter6.md)
