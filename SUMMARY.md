@@ -7,3 +7,5 @@
 * [4. Deeplearning-biology](chapter4.md)
 * [5. React](chapter5.md)
 * [6. chatbot](chapter6.md)
+* [7. Riot](chapter7.md)
+
