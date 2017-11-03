@@ -10,3 +10,4 @@
 * [7. Riot](chapter7.md)
 * [8. WaveFunctionCollapse](chapter8.md)
 * [9. Frappé charts](chapter9.md)
+* [10. Apache Spark](chapter10.md)
