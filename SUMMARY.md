@@ -14,3 +14,4 @@
 * [11. vscode](11.md)
 * [12. chalktalk](12.md)
 * [13. Scrapy](13.md)
+* [14. Papers We Love](14.md)
