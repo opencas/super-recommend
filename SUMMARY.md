@@ -12,3 +12,4 @@
 * [9. Frappé charts](9.md)
 * [10. Apache Spark](10.md)
 * [11. vscode](11.md)
+* [12. chalktalk](12.md)
