@@ -23,5 +23,5 @@
 * [20. The Sleuth Kit](20.md)
 * [21. Flask](21.md)
 * [22. Hashtopussy](22.md)
-
+* [23. PyTorch](23.md)
 * [24. KNIME](24.md)
