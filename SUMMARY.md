@@ -24,3 +24,4 @@
 * [21. Flask](21.md)
 * [22. Hashtopussy](22.md)
 
+* [24. KNIME](24.md)
