@@ -26,3 +26,4 @@
 * [23. PyTorch](23.md)
 * [24. KNIME](24.md)
 * [25. Pytudes](25.md)
+* [26. geekcomputers](26.md)
